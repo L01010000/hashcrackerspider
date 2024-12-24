@@ -8,19 +8,6 @@
 </div>
 
 
-# Installation & Usage
-
-Installation:
-   
-    pip install -r requirements.txt
-
-
-
-To use the tool, just enter in your terminal:
-
-    python3 AnarchyArchive.py
-    
-
 
 </center><h1>Platforms tested on</h1></center>
 <li>Windows</li>
